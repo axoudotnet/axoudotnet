@@ -3,7 +3,7 @@
 # Welcome, Im Axou! <img src="https://cdn3.emoji.gg/emojis/35781-junimo-dance.gif" width="45px" height="45px" alt="junimo_dance">
 > Hi! I'm **Axou**, a beginner French developer passionate about computers and programming.
 ---
-![thefrenchaxo's Stats](https://github-readme-stats.vercel.app/api?username=thefrenchaxo&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
+![thefrenchaxo's Stats](https://github-readme-stats.vercel.app/api?username=axoudotnet&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
 ### My languages :
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
